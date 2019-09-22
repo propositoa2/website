@@ -1,0 +1,23 @@
+.entry{
+	
+	margin-left:25px; padding-right:150px;
+}
+.entry-title{
+	text-align:left;
+}
+.entry-title a {
+	
+	font-family:'Chelsea Market', cursive; 
+}
+.entry-meta{
+	
+	text-align:left;
+}
+.entry-content{
+	
+	text-align:left;
+}
+.entry-content p{
+	
+	text-align:left; font-family:'BebasNeueRegular';
+}
